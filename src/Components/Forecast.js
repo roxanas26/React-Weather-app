@@ -1,5 +1,4 @@
 import React from "react";
-import TemperatureDetails from "./TemperatureDetails";
 
 class Forecast extends React.Component {
   render() {
