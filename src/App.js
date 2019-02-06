@@ -11,12 +11,12 @@ import moment from "moment";
 import AlgoliaPlaces from "algolia-places-react";
 
 const API_KEY = "d39775e63bedbdcf56edd5ac4e6f3b18";
-const API_KEY_POLUTTION = "n9DTJqNfDhxsGZgjr";
+const API_KEY_POLUTTION = "vnrQAQH9C7xQwr8yb";
 const API_KEY_SUGGESTIONS_ID = "plLALE39MUCT";
 const API_KEY_SUGGESTIONS_CODE = "6c87ecde8efadc5b1a37784201009716";
 const API_ENDPOINT = "https://api.openweathermap.org/data/2.5/weather";
 const API_FORECAST = "https://api.openweathermap.org/data/2.5/forecast";
-const API_POLUTTION = "http://api.airvisual.com/v2/";
+const API_POLUTTION = "https://cors.io/?http://api.airvisual.com/v2/";
 
 class App extends Component {
  
